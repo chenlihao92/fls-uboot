@@ -15,7 +15,14 @@ make udoo_neo_config
 
 #md5sum MLO
 #md5sum u-boot.img
+<<<<<<< HEAD
 
 make -j32 
 
 
+=======
+make -j32 
+
+
+
+>>>>>>> 3adca7ae4a9c242b63e9a7681211305ee64f89b1
